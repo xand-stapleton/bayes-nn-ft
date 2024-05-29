@@ -1,8 +1,47 @@
-@misc{howard2024bayesian,
-      title={Bayesian RG Flow in Neural Network Field Theories}, 
-      author={Jessica N. Howard and Marc S. Klinger and Anindita Maiti and Alexander G. Stapleton},
-      year={2024},
-      eprint={2405.17538},
-      archivePrefix={arXiv},
-      primaryClass={hep-th}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Howard"
+  given-names: "Jessica N."
+  orcid: "https://orcid.org/0000-0001-8295-7727"
+- family-names: "Klinger"
+  given-names: "Marc S."
+  orcid: "https://orcid.org/0009-0001-7666-1185"
+- family-names: "Maiti"
+  given-names: "Anindita"
+  orcid: "https://orcid.org/0000-0002-4712-6626"
+- family-names: "Stapleton"
+  given-names: "Alexander G."
+  orcid: "https://orcid.org/0009-0009-6784-7779"
+title: "Bayesian RG Flow in Neural Network Field Theories"
+version: 1.0.0
+# doi: TBD
+date-released: 2024-05-28
+url: "https://github.com/xand-stapleton/bayes-nn-ft/"
+preferred-citation:
+  type: misc
+  authors:
+- family-names: "Howard"
+  given-names: "Jessica N."
+  orcid: "https://orcid.org/0000-0001-8295-7727"
+- family-names: "Klinger"
+  given-names: "Marc S."
+  orcid: "https://orcid.org/0009-0001-7666-1185"
+- family-names: "Maiti"
+  given-names: "Anindita"
+  orcid: "https://orcid.org/0000-0002-4712-6626"
+- family-names: "Stapleton"
+  given-names: "Alexander G."
+  orcid: "https://orcid.org/0009-0009-6784-7779"
+	# doi: TBD
+  # journal: "Journal Title"
+  # month: 9
+  # start: 1 # First page number
+  # end: 10 # Last page number
+  title: "Bayesian RG Flow in Neural Network Field Theories"
+  # issue: 1
+  # volume: 1
+  year: 2024
+	eprint: 2405.17538
+	archivePrefix: arXiv
+	primaryClass:hep-th
