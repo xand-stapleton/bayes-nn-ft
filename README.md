@@ -24,5 +24,12 @@ scheme.
 # BibTeX Citation
 If you use our code, please cite the paper
 ```
-Insert citation here
+@misc{howard2024bayesian,
+      title={Bayesian RG Flow in Neural Network Field Theories}, 
+      author={Jessica N. Howard and Marc S. Klinger and Anindita Maiti and Alexander G. Stapleton},
+      year={2024},
+      eprint={2405.17538},
+      archivePrefix={arXiv},
+      primaryClass={hep-th}
+}
 ```
