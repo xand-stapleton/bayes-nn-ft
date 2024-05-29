@@ -15,7 +15,6 @@ authors:
   orcid: "https://orcid.org/0009-0009-6784-7779"
 title: "Bayesian RG Flow in Neural Network Field Theories"
 version: 1.0.0
-# doi: TBD
 date-released: 2024-05-28
 url: "https://github.com/xand-stapleton/bayes-nn-ft/"
 preferred-citation:
@@ -33,15 +32,8 @@ preferred-citation:
 - family-names: "Stapleton"
   given-names: "Alexander G."
   orcid: "https://orcid.org/0009-0009-6784-7779"
-	# doi: TBD
-  # journal: "Journal Title"
-  # month: 9
-  # start: 1 # First page number
-  # end: 10 # Last page number
-  title: "Bayesian RG Flow in Neural Network Field Theories"
-  # issue: 1
-  # volume: 1
-  year: 2024
-	eprint: 2405.17538
-	archivePrefix: arXiv
-	primaryClass:hep-th
+title: "Bayesian RG Flow in Neural Network Field Theories"
+year: 2024
+eprint: 2405.17538
+archivePrefix: arXiv
+primaryClass:hep-th
